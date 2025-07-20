@@ -21,8 +21,8 @@ I'm an **Entry-Level Java Developer** with a passion for building scalable and e
 
 ## 💡 Projects & Contributions
 
-- **Credit Card Application System**: A web-based system built using the MEAN stack that improved the credit card application process by 70%.
-- **Number Guessing Game**: A simple console-based Java application to sharpen problem-solving skills using random number generation and user input.
+- **Service Provider System:**: A full-stack web application where service providers can register and list their services. Built using Angular, Spring Boot, and MySQL with secure JWT authentication and role-based access control. Includes APIs for managing services and user profiles.
+- **Job Seeker Portal:**: A connected module allowing job seekers to browse services, apply for opportunities, and manage their profiles. Developed using Angular for the frontend and Spring Boot for the backend, ensuring a seamless job application workflow with RESTful integration.
 
 ---
 
@@ -35,7 +35,7 @@ I'm an **Entry-Level Java Developer** with a passion for building scalable and e
 
 ## 🎓 Education & Learning
 
-- **Master of Computer Applications** (Pursuing)  
+- **Master of Computer Applications** 
   Sinhgad Institute of Management, affiliated with Savitribai Phule Pune University
 - **Bachelor of Computer Science** - First Rank  
   Developed a strong foundation in software development, data structures, and algorithms.
